@@ -4,7 +4,7 @@
 
 ## Study Curriculum
 
-### 1. Andrej Karpathy: Neural Networks: Zero to Hero
+### 1. Andrej Karpathy의 Neural Networks: Zero to Hero 강의 뿌수기 (26/02/08~진행중)
 
 유튜브 재생목록 링크: [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
