@@ -5,7 +5,8 @@
 ## Study Curriculum
 
 ### 1. Andrej Karpathy: Neural Networks: Zero to Hero
-[유튜브 재생목록 링크](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
+유튜브 재생목록 링크: [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 나만의 깃허브 기록 폴더: [karpathy-ai-study](./karpathy-ai-study)
 
