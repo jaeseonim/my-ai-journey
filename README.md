@@ -18,4 +18,4 @@
 
 ## top-down
 
-### 1. RSNA competition 실습 (예정)
+### 1. (미정)
